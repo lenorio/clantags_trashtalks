@@ -1,2 +1,2 @@
-{nl} emberlash
-{nl} angelwings
+emberlash.txt
+angelwings.txt
