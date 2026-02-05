@@ -1,5 +1,5 @@
 @ticks 21
-@shift 20
+@shift 16
 @latency 1
 
 a
