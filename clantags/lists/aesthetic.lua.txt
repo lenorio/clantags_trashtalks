@@ -1,0 +1,20 @@
+@ticks 17
+@shift 0
+@latency 1
+a
+ae
+aes
+aest
+aesth
+aesthe
+aesthet
+aestheti
+aesthetic
+aestheti
+aesthet
+aesthe
+aesth
+aest
+aes
+ae
+a
