@@ -1,5 +1,5 @@
-{gs} emberlash crack
-{gs} angelwings
-{gs} wraith
-{nl} xoyaw
-{ot} resolver
+emberlash crack.txt
+angelwings.txt
+wraith.txt
+xoyaw.txt
+resolver.txt
