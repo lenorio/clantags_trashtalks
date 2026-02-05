@@ -1,0 +1,361 @@
+[aesthetic]
+@ticks 21
+@shift 0
+@latency 1
+a
+a3
+ae
+ae5
+aes
+aes7
+aest
+aest#
+aesth
+aesth3
+aesthe
+aesthe7
+aesthet
+aesthet1
+aestheti
+aestheti<
+aesthetic
+aesthetic
+aesthetic
+aesthetic
+aesthetic
+aesthetic
+aesthetic
+aesthetic
+aestheti<
+aestheti
+aesthet1
+aesthet
+aesthe7
+aesthe
+aesth3
+aesth
+aest#
+aest
+aes7
+aes
+ae5
+ae
+a3
+a
+
+[gamesense]
+@ticks 15
+@shift 0
+@latency 1
+gamesense
+gamesens
+gamesen
+gamese
+games
+game
+gam
+ga
+g
+ga
+gam
+game
+games
+gamese
+gamesen
+gamesens
+gamesense
+
+[neverlose]
+@ticks 18
+@shift 0
+@latency 1
+neverlose
+neverlos
+neverlo
+neverl
+never
+neve
+nev
+ne
+ne
+nev
+neve
+never
+neverl
+neverlo
+neverlos
+neverlose
+
+[missware]
+@ticks 16
+@shift 2
+@latency 1
+missware
+misswar
+misswa
+missw
+miss
+mis
+mi
+m
+m
+mi
+mis
+miss
+missw
+misswa
+misswar
+missware
+
+[onetrick]
+@ticks 20
+@shift 0
+@latency 1
+onetrick
+onetric
+onetri
+onet
+one
+on
+o
+o
+on
+one
+onet
+onetri
+onetric
+onetrick
+
+[prime]
+@ticks 14
+@shift 0
+@latency 1
+prime
+prim
+pri
+pr
+p
+p
+pr
+pri
+prim
+prime
+
+[liquid]
+@ticks 19
+@shift 1
+@latency 1
+liquid
+liqui
+liqu
+liq
+li
+l
+l
+li
+liq
+liqu
+liqui
+liquid
+
+[cloud9]
+@ticks 17
+@shift 0
+@latency 1
+cloud9
+cloud
+clou
+clo
+cl
+c
+c
+cl
+clo
+clou
+cloud
+cloud9
+
+[fnatic]
+@ticks 22
+@shift 0
+@latency 1
+fnatic
+fnati
+fnat
+fna
+fn
+f
+f
+fn
+fna
+fnat
+fnati
+fnatic
+
+[natusvincere]
+@ticks 25
+@shift 0
+@latency 1
+natus
+natu
+nat
+na
+n
+n
+na
+nat
+natu
+natus
+vincere
+vincir
+vinci
+vinc
+vin
+vi
+vi
+vin
+vinc
+vinci
+vincir
+vincere
+
+[astralis]
+@ticks 16
+@shift 0
+@latency 1
+astralis
+astrali
+astral
+astra
+astr
+as
+a
+a
+as
+astr
+astra
+astral
+astrali
+astralis
+
+[skgaming]
+@ticks 18
+@shift 0
+@latency 1
+skgaming
+skgamin
+skgami
+skgam
+skga
+skg
+sk
+sk
+skg
+skga
+skgam
+skgami
+skgamin
+skgaming
+
+[owl]
+@ticks 12
+@shift 0
+@latency 1
+owl
+ow
+o
+o
+ow
+owl
+
+[aim]
+@ticks 10
+@shift 0
+@latency 1
+aim
+ai
+a
+a
+ai
+aim
+
+[pro]
+@ticks 8
+@shift 0
+@latency 1
+pro
+pr
+p
+p
+pr
+pro
+
+[god]
+@ticks 9
+@shift 0
+@latency 1
+god
+go
+g
+g
+go
+god
+
+[ez]
+@ticks 6
+@shift 0
+@latency 1
+ez
+e
+e
+ez
+
+[gg]
+@ticks 7
+@shift 0
+@latency 1
+gg
+g
+g
+gg
+
+[nl]
+@ticks 5
+@shift 0
+@latency 1
+nl
+n
+n
+nl
+
+[trash]
+@ticks 23
+@shift 0
+@latency 1
+trash
+tras
+tra
+tr
+t
+t
+tr
+tra
+tras
+trash
+
+[custom]
+@ticks 20
+@shift 0
+@latency 1
+custom
+custo
+cust
+cus
+cu
+c
+c
+cu
+cus
+cust
+custo
+custom
