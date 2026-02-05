@@ -1,0 +1,32 @@
+@ticks 17
+@shift 0
+@latency 1
+   
+6
+e7
+ev4
+eva7
+eval2
+evala5
+evalat3
+evalate
+evalate.7
+evalate.c9
+evalate.co
+evalate.com
+evalate.com
+evalate.com
+evalate.com
+evalate.com
+evalate.co
+evalate.c9
+evalate.7
+evalate
+evalat3
+evala5
+eval2
+eva7
+ev4
+e7
+6
+ 
