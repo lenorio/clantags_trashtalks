@@ -1,8 +1,6 @@
-@ticks 17
+@ticks 21
 @shift 0
 @latency 1
-/
-/\
 a
 a3
 ae
@@ -24,6 +22,9 @@ aesthetic
 aesthetic
 aesthetic
 aesthetic
+aesthetic
+aesthetic
+aesthetic
 aestheti<
 aestheti
 aesthet1
@@ -40,5 +41,3 @@ ae5
 ae
 a3
 a
-/\
-/
